@@ -98,7 +98,7 @@ elif [ $redhatscore -gt $debianscore ]
 then
     echo "Most likely ypu linux distribution is Redhat-based."
 else
-    echo "Unable to determine Linux Distribution base."
+    echo "Unable to determine Linux Distribution base.please chek"
 fi
 echo
 #################################
